@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grib1
+  - Enemy
+  - FlyAgaric
+  - Apple
+  - CentrePointForSpider
+  - Spider
+  - GrafForEnemy
+  - graf
+  - GreenBall
+  - CrystalBlue
+  - Clock
+  - Grib2
+  - Grib3
+  - Kub
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 1659179807
+    locked: 0
+  - name: 2
+    uniqueID: 3209512869
+    locked: 0
+  - name: 3
+    uniqueID: 264635965
+    locked: 0
+  - name: 4
+    uniqueID: 2155334509
+    locked: 0
