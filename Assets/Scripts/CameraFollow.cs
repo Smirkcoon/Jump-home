@@ -6,13 +6,6 @@ public class CameraFollow : MonoBehaviour
 {
     public Transform target;
     public float smothSpeed = .3f;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
     void LateUpdate()
     {
         if (target.position.y > transform.position.y) 
