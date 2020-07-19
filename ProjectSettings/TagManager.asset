@@ -18,6 +18,8 @@ TagManager:
   - Grib2
   - Grib3
   - Kub
+  - whirlwind
+  - Platform
   layers:
   - Default
   - TransparentFX
